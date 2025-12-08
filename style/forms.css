@@ -16,3 +16,7 @@ legend {
   margin-bottom: 1.6rem;
 
 }
+
+fieldset + fieldset {
+  margin-top: 3rem;
+}
